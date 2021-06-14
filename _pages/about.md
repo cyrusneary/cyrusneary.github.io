@@ -13,7 +13,7 @@ Welcome! I'm a Ph.D. student studying Computational Science, Engineering, and Ma
 Prior to my graduate studies in Austin, I obtained a Bachelors of Applied Science degree from The University of British Columbia, where I studied Engineering Physics and minored in Honours Mathematics.
 
 **Research Interests**
-I'm interested in the systematic incorporation of prior knowledge into reinforcement learning systems, and how such structured information may be used for the formal verification of said systems.
+I'm interested in studying how prior knowledge can be incorporated into reinforcement learning systems, and how such structured information may be used for the formal verification of said systems.
 <!-- My research interests are in reinforcement learning, multi-agent systems, and the mathematics required to model and analysize decision-making procedures. -->
 
 <!-- **Other Intersts**
