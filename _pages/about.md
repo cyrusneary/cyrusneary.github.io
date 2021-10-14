@@ -13,8 +13,11 @@ Welcome! I'm a Ph.D. student studying Computational Science, Engineering, and Ma
 Prior to my graduate studies in Austin, I obtained a Bachelors of Applied Science degree from The University of British Columbia, where I studied Engineering Physics and minored in Honours Mathematics.
 
 **Research Interests**
-I'm interested in studying how prior knowledge can be incorporated into reinforcement learning systems, and how such structured information may be used for the formal verification of said systems.
-<!-- My research interests are in reinforcement learning, multi-agent systems, and the mathematics required to model and analysize decision-making procedures. -->
+I'm interested in studying how prior knowledge can be incorporated into reinforcement learning (RL) systems, and how such information may be used for the formal verification of said systems, particularly in the context of safety-critical engineering applications. My two most recent projects have focused on [compositional RL systems](https://arxiv.org/abs/2106.05864), and on [using physics-based knowledge to improve the data efficiency and generalizability of neural-network models of dynamical systems](https://arxiv.org/abs/2109.06407).
+
+<!-- I'm interested in studying how prior knowledge can be incorporated into reinforcement learning systems, and how such structured information may be used for the formal verification of said systems. -->
+
+<!-- He is interested in studying how prior knowledge can be incorporated into reinforcement learning (RL) systems, and how such information may be used for the formal verification of said systems, particularly in the context of safety-critical engineering applications. His recent research has focused on compositional RL systems; complex (or multi-agent) systems are decomposed into their constituent components to simplify learning, while theoretical guarantees are developed to assure that compositions of such components satisfy system-level requirements. -->
 
 <!-- **Other Intersts**
 In my free time I enjoy reading fiction, taking photos, and playing video games. -->
