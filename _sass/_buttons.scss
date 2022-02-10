@@ -61,7 +61,7 @@
   /* light outline */
 
   &--light-outline {
-    border: 1px solid #fff !important; /* override*/
+    border: 1px solid rgb(143, 143, 143) !important; /* override*/
     background-color: transparent;
   }
 
@@ -149,5 +149,23 @@
 
   &--small {
     font-size: $type-size-7;
+  }
+
+  &--research {
+    display: inline-block;
+    margin-bottom: 0.25em;
+    padding: 0.125em 0.25em;
+    color: $link-color;
+    text-align: center;
+    text-decoration: none !important;
+    border: 1px solid;
+    border-color: $link-color;
+    border-radius: $border-radius;
+    cursor: pointer;
+  
+    &:hover {
+      color: #fff;
+      background-color: $link-color !important;
+    }
   }
 }
