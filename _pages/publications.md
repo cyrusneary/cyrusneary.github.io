@@ -60,7 +60,7 @@ Franck Djeumou<sup>\*</sup>, **Cyrus Neary**<sup>\*</sup>, Eric Goubault, Sylvie
 
 <img 
 src="/images/pinode_results.gif" 
-width=600 
+width=550 
 style="float: right; margin-left: 10px; margin-right: 10px;">
 
 Effective inclusion of physics-based knowledge into deep neural network models of dynamical systems can greatly improve data efficiency and generalization. We accordingly develop a framework to learn dynamics models from trajectory data while incorporating a-priori system knowledge as inductive bias. More specifically, the proposed framework uses physics-based side information to inform the structure of the neural network itself, and to place constraints on the values of the outputs and the internal states of the model. By exploiting a-priori system knowledge during training, the proposed approach learns to predict the system dynamics two orders of magnitude more accurately than a baseline approach that does not include prior knowledge, given the same training dataset.
@@ -77,7 +77,7 @@ Effective inclusion of physics-based knowledge into deep neural network models o
 
 <img 
 src="/images/rm_marl.gif" 
-width=600 
+width=550 
 style="float: right; margin-left: 10px; margin-right: 20px;">
 
 In cooperative multi-agent reinforcement learning, a collection of agents learns to interact in a shared environment to achieve a common goal. We propose the use of reward machines (RMs) to encode the team's task, which allows the team-level task to be automatically decomposed into sub-tasks for individual agents. We present algorithmically verifiable conditions guaranteeing that distributed completion of the sub-tasks leads to team behavior accomplishing the original task. This framework for task decomposition provides a natural approach to decentralized learning: agents may learn to accomplish their sub-tasks while observing only their local state and abstracted representations of their teammates. We accordingly propose a decentralized Q-learning algorithm and demonstrate its superior sample complexity through two numerical experiments involving three agents and ten agents, respectively.
