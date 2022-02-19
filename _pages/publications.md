@@ -10,7 +10,7 @@ author_profile: true
 
 **[Verifiable and Compositional Reinforcement Learning Systems](../_publications/2021_verifiable_and_compositional_rl.md)**
 
-**Cyrus Neary**, Christos Verginis, Murat Cubuktepe, and Ufuk Topcu<br><span style="font-size:12pt">Under review at *The International Conference on Automated Planning and Scheduling (ICAPS) 2022*.</span>
+**Cyrus Neary**, Christos Verginis, Murat Cubuktepe, and Ufuk Topcu<br><span style="font-size:12pt">*The International Conference on Automated Planning and Scheduling (ICAPS) 2022*.</span>
 
 <img 
 src="/images/compositional_rl.gif" 
