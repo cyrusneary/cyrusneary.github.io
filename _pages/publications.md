@@ -56,7 +56,7 @@ In a cooperative multiagent system, a collection of agents executes a joint poli
 
 **[Neural Networks with Physics-Informed Architectures and Constraints for Dynamical Systems Modeling](../_publications/2021_neural_networks_with_physics_informed_architectures_and_constraints.md)**
 
-Franck Djeumou<sup>\*</sup>, **Cyrus Neary**<sup>\*</sup>, Eric Goubault, Sylvie Putot, and Ufuk Topcu<br><span style="font-size:12pt">Under review at *The Learning for Dynamics and Control Conference (L4DC) 2022*.</span><br><span style="font-size:10pt;"> <sup>*</sup> indicates equal contribution. </span>
+Franck Djeumou<sup>\*</sup>, **Cyrus Neary**<sup>\*</sup>, Eric Goubault, Sylvie Putot, and Ufuk Topcu<br><span style="font-size:12pt">*The Learning for Dynamics and Control Conference (L4DC) 2022*.</span><br><span style="font-size:10pt;"> <sup>*</sup> indicates equal contribution. </span>
 
 <img 
 src="/images/pinode_results.gif" 
