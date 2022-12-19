@@ -7,7 +7,7 @@ author_profile: true
 
 Mustafa O. Karabag<sup>\*</sup>, **Cyrus Neary**<sup>\*</sup>, and Ufuk Topcu<br><span style="font-size:12pt">*The International Conference on Autonomous Agents and Multiagent Systems (AAMAS) 2022*.</span><br><span style="font-size:10pt;"> <sup>*</sup> indicates equal contribution. </span>
 
-[Paper](https://arxiv.org/abs/2201.06619) \| [Code](https://github.com/cyrusneary/multi-agent-comms)
+[Paper](https://www.ifaamas.org/Proceedings/aamas2022/pdfs/p705.pdf) \| [Code](https://github.com/cyrusneary/multi-agent-comms)
 
 <img 
 src="/images/intermittent_comms_labeled.png" 

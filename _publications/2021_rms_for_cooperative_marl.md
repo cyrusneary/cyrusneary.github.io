@@ -7,7 +7,7 @@ author_profile: true
 
 **Cyrus Neary**, Zhe Xu, Bo Wu, and Ufuk Topcu<br><span style="font-size:12pt">*The International Conference on Autonomous Agents and Multiagent Systems (AAMAS) 2021*.</span>
 
-[Paper](https://arxiv.org/abs/2007.01962) \| [Presentation](https://slideslive.com/38954933/reward-machines-for-cooperative-multiagent-reinforcement-learning) \| [Slides](/files/2021-01-03_RM_MARL_V2.pdf) \| [Code](https://github.com/cyrusneary/rm-cooperative-marl) 
+[Paper](https://www.ifaamas.org/Proceedings/aamas2021/pdfs/p934.pdf) \| [Presentation](https://slideslive.com/38954933/reward-machines-for-cooperative-multiagent-reinforcement-learning) \| [Slides](/files/2021-01-03_RM_MARL_V2.pdf) \| [Code](https://github.com/cyrusneary/rm-cooperative-marl) 
 
 <img 
 src="/images/rm_marl.gif" 

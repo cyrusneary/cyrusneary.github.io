@@ -5,9 +5,10 @@ permalink: /publications/verifiable_compositional_rl
 author_profile: true
 ---
 
-**Cyrus Neary**, Christos Verginis, Murat Cubuktepe, and Ufuk Topcu<br><span style="font-size:12pt">Under review at *The International Conference on Automated Planning and Scheduling (ICAPS) 2022*.</span>
+**Cyrus Neary**, Christos Verginis, Murat Cubuktepe, and Ufuk Topcu<br><span style="font-size:12pt">*The International Conference on Automated Planning and Scheduling (ICAPS) 2022*.</span>
 
-[Paper](https://arxiv.org/abs/2106.05864) \| [Code](https://github.com/cyrusneary/verifiable-compositional-rl)
+[Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/19849) \| [Poster](../files/2022_icaps_poster.pdf) \| [Code](https://github.com/cyrusneary/verifiable-compositional-rl)
+
 
 <img 
 src="/images/compositional_rl.gif" 

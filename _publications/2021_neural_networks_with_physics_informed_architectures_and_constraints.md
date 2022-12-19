@@ -5,9 +5,9 @@ permalink: /publication/physics_informed_neural_nodes
 author_profile: true
 ---
 
-Franck Djeumou<sup>\*</sup>, **Cyrus Neary**<sup>\*</sup>, Eric Goubault, Sylvie Putot, and Ufuk Topcu<br><span style="font-size:12pt">Under review at *The Learning for Dynamics and Control Conference (L4DC) 2022*.</span><br><span style="font-size:10pt;"> <sup>*</sup> indicates equal contribution. </span>
+Franck Djeumou<sup>\*</sup>, **Cyrus Neary**<sup>\*</sup>, Eric Goubault, Sylvie Putot, and Ufuk Topcu<br><span style="font-size:12pt">*The Learning for Dynamics and Control Conference (L4DC) 2022*.</span><br><span style="font-size:10pt;"> <sup>*</sup> indicates equal contribution. </span>
 
-[Paper](https://arxiv.org/abs/2109.06407) \| [Code](https://github.com/wuwushrek/physics_constrained_nn)
+[Paper](https://proceedings.mlr.press/v168/djeumou22a) \| [Poster](../files/2022_l4dc_poster.pdf) \| [Code](https://github.com/wuwushrek/physics_constrained_nn)
 
 <img 
 src="/images/pinode_results.gif" 

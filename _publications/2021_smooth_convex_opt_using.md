@@ -7,7 +7,7 @@ author_profile: true
 
 Mustafa O. Karabag, **Cyrus Neary**, and Ufuk Topcu<br><span style="font-size:12pt">*The AAAI Conference on Artificial Intelligence (AAAI) 2021*.</span>
 
-[Paper](https://arxiv.org/abs/2103.00667)
+[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/16499)
 
 <img 
 src="/images/labeled_gradient_pruning.png" 

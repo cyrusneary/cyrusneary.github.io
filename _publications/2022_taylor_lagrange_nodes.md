@@ -5,9 +5,9 @@ permalink: /publications/taylor_lagrange_nodes
 author_profile: true
 ---
 
-Franck Djeumou<sup>\*</sup>, **Cyrus Neary**<sup>\*</sup>, Eric Goubault, Sylvie Putot, and Ufuk Topcu<br><span style="font-size:12pt">Under review at *The International Joint Conferences on Artificial Intelligence (IJCAI) 2022*.</span><br><span style="font-size:10pt;"> <sup>*</sup> indicates equal contribution. </span>
+Franck Djeumou<sup>\*</sup>, **Cyrus Neary**<sup>\*</sup>, Eric Goubault, Sylvie Putot, and Ufuk Topcu<br><span style="font-size:12pt">*The International Joint Conferences on Artificial Intelligence (IJCAI) 2022*.</span><br><span style="font-size:10pt;"> <sup>*</sup> indicates equal contribution. </span>
 
-[Paper](https://arxiv.org/abs/2201.05715) \| [Code](https://github.com/wuwushrek/TayLaNets)
+[Paper](https://www.ijcai.org/proceedings/2022/0405) \| [Poster](../files/2022_ijcai_poster.pdf) \| [Code](https://github.com/wuwushrek/TayLaNets)
 
 <img 
 src="/images/tl_node_bar_charts.png" 
