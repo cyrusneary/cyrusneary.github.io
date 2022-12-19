@@ -15,11 +15,11 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  # - title: "CV"
-  #   url: /cv/
+  - title: "CV"
+    url: /files/cyrus_cv.pdf
 
-  - title: "Resume"
-    url: /files/cyrus_resume.pdf
+  # - title: "Resume"
+  #   url: /files/cyrus_resume.pdf
     
   # - title: "Guide"
   #   url: /markdown/
