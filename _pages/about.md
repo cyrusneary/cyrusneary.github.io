@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I'm a Ph.D. student studying Computational Science, Engineering, and Mathematics within [The Oden Institute](https://www.oden.utexas.edu/) at The University of Texas at Austin. I work with Professor Ufuk Topcu as a member of the [Autonomous Systems Group](https://u-t-autonomous.github.io/). 
+Welcome! I'm a Ph.D. student studying Computational Science, Engineering, and Mathematics within [The Oden Institute](https://www.oden.utexas.edu/) at The University of Texas at Austin. I work with Professor Ufuk Topcu as a member of the [Center for Autonomy](https://oden.utexas.edu/research/centers-and-groups/center-for-autonomy/). I'm also a member of the [Center for Scientific Machine Learning](https://oden.utexas.edu/research/centers-and-groups/center-for-scientific-machine-learning/). 
 <!-- I'm a member of Professor Ufuk Topcu's [Autonomous Systems Group](https://www.ae.utexas.edu/facultysites/topcu/wiki/index.php/Main_Page).  -->
 
 Prior to my graduate studies in Austin, I obtained a Bachelors of Applied Science degree from The University of British Columbia, where I studied Engineering Physics and minored in Honours Mathematics.

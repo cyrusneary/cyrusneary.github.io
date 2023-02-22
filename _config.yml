@@ -84,7 +84,7 @@ author:
   avatar           : "headshot.jpg"
   bio              : "PhD student in Computational Science, Engineering, and Math."
   location         : #"Austin, TX"
-  employer         : "The University of Texas at Austin"
+  employer         : #"The University of Texas at Austin"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=z4JrPP0AAAAJ&hl=en&oi=ao"
   email            :
