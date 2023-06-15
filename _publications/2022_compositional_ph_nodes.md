@@ -5,7 +5,7 @@ permalink: /publications/compositional_port_hamiltonian_neural_networks
 author_profile: true
 ---
 
-**Cyrus Neary** and Ufuk Topcu<br><span style="font-size:12pt">Under review at *The Learning for Dynamics and Control Conference (L4DC) 2023*.</span>
+**Cyrus Neary** and Ufuk Topcu<br><span style="font-size:12pt">*The Learning for Dynamics and Control Conference (L4DC) 2023*.</span>
 
 [Paper](https://arxiv.org/abs/2212.00893) \| [Code](https://github.com/cyrusneary/compositional_port_hamiltonian_NNs)
 

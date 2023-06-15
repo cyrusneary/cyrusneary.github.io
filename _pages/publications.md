@@ -8,9 +8,24 @@ author_profile: true
 
 ---
 
+**[How to Learn and Generalize From Three Minutes of Data: Physics-Constrained and Uncertainty-Aware Neural Stochastic Differential Equations](../_publications/2023_how_to_sde_in_3_mins.md)**
+
+Franck Djeumou<sup>\*</sup>, **Cyrus Neary**<sup>\*</sup>, and Ufuk Topcu<br><span style="font-size:12pt">Under review at *The Conference on Robot Learning (CORL) 2023*</span><br><span style="font-size:10pt;"> <sup>*</sup> indicates equal contribution. </span>
+
+[Read More](../_publications/2023_how_to_sde_in_3_mins.md) \| [Paper](https://arxiv.org/abs/2306.06335) \| [Videos](https://tinyurl.com/29xr5vya)
+
+<img 
+src="/images/hexa_fig_8_v2.png" 
+width=600 
+style="float: right; margin-left: 10px; margin-right: 10px;">
+
+We present a framework and algorithms to learn controlled dynamics models using neural stochastic differential equations (SDEs)—SDEs whose drift and diffusion terms are both parametrized by neural networks. We construct the drift term to leverage a priori physics knowledge as inductive bias, and we design the diffusion term to represent a distance-aware estimate of the uncertainty in the learned model’s predictions. The proposed neural SDEs can be evaluated quickly enough for use in model predictive control algorithms, or they can be used as simulators for model-based reinforcement learning. We demonstrate these capabilities through experiments on simulated robotic systems, as well as by using them to model and control a hexacopter’s flight dynamics: A neural SDE trained using only three minutes of manually collected flight data results in a model-based control policy that accurately tracks aggressive trajectories that push the hexacopter’s velocity and Euler angles to nearly double the maximum values observed in the training dataset.
+
+---
+
 **[Compositional Learning of Dynamical System Models Using Port-Hamiltonian Neural Networks](../_publications/2022_compositional_ph_nodes.md)**
 
-**Cyrus Neary** and Ufuk Topcu<br><span style="font-size:12pt">Under review at *The Learning for Dynamics and Control Conference (L4DC) 2023*.</span>
+**Cyrus Neary** and Ufuk Topcu<br><span style="font-size:12pt">*The Learning for Dynamics and Control Conference (L4DC) 2023*.</span>
 
 <img 
 src="/images/ph_node_idea_illustration.png" 
@@ -27,7 +42,7 @@ Many dynamical systems -- from robots interacting with their surroundings to lar
 
 **[Differential Privacy in Cooperative Multiagent Planning](../_publications/2023_differential_privacy_in_cooperative_multiagent_planning.md)**
 
-Bo Chen<sup>\*</sup>, Calvin Hawkins<sup>\*</sup>, Mustafa O. Karabag<sup>\*</sup>, **Cyrus Neary**<sup>\*</sup>, Matthew Hale, and Ufuk Topcu<br><span style="font-size:12pt">Under review at *The Conference on Uncertainty in Aritifical Intelligence (UAI) 2023*.</span><br><span style="font-size:10pt;"> <sup>*</sup> indicates equal contribution. </span>
+Bo Chen<sup>\*</sup>, Calvin Hawkins<sup>\*</sup>, Mustafa O. Karabag<sup>\*</sup>, **Cyrus Neary**<sup>\*</sup>, Matthew Hale, and Ufuk Topcu<br><span style="font-size:12pt">*The Conference on Uncertainty in Aritifical Intelligence (UAI) 2023*.</span><br><span style="font-size:10pt;"> <sup>*</sup> indicates equal contribution. </span>
 
 <img 
 src="/images/differential_privacy_results_screenshot.png" 
@@ -44,7 +59,7 @@ Privacy-aware multiagent systems must protect agents' sensitive data while simul
 
 **[Physics-Informed Kernel Embeddings: Integrating Prior System Knowledge with Data-Driven Control](../_publications/2023_physics_informed_kernel_embeddings.md)**
 
-Adam J. Thorpe<sup>\*</sup>, **Cyrus Neary**<sup>\*</sup>, Franck Djeumou<sup>\*</sup>, Meeko M. K. Oishi, and Ufuk Topcu<br><span style="font-size:12pt">Under review at *The Learning for Dynamics and Control Conference (L4DC) 2023*</span><br><span style="font-size:10pt;"> <sup>*</sup> indicates equal contribution. </span>
+Adam J. Thorpe<sup>\*</sup>, **Cyrus Neary**<sup>\*</sup>, Franck Djeumou<sup>\*</sup>, Meeko M. K. Oishi, and Ufuk Topcu<br><span style="font-size:12pt">Under review at *The Conference on Decision and Control (CDC) 2023*</span><br><span style="font-size:10pt;"> <sup>*</sup> indicates equal contribution. </span>
 
 <img 
 src="/images/rkhs_intro_figure.png" 

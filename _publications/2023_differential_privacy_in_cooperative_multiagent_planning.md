@@ -5,7 +5,7 @@ permalink: /publications/differential_privacy_in_multiagent_planning
 author_profile: true
 ---
 
-Bo Chen<sup>\*</sup>, Calvin Hawkins<sup>\*</sup>, Mustafa O. Karabag<sup>\*</sup>, **Cyrus Neary**<sup>\*</sup>, Matthew Hale, and Ufuk Topcu<br><span style="font-size:12pt">Under review at *The Conference on Uncertainty in Artificial Intelligence (UAI) 2023*.</span><br><span style="font-size:10pt;"> <sup>*</sup> indicates equal contribution. </span>
+Bo Chen<sup>\*</sup>, Calvin Hawkins<sup>\*</sup>, Mustafa O. Karabag<sup>\*</sup>, **Cyrus Neary**<sup>\*</sup>, Matthew Hale, and Ufuk Topcu<br><span style="font-size:12pt">*The Conference on Uncertainty in Artificial Intelligence (UAI) 2023*.</span><br><span style="font-size:10pt;"> <sup>*</sup> indicates equal contribution. </span>
 
 [Paper](https://arxiv.org/abs/2301.08811) \| [Code](https://github.com/cyrusneary/differential_privacy_in_mas)
 
