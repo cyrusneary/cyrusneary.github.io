@@ -14,7 +14,7 @@ Welcome! I'm a Ph.D. student studying Computational Science, Engineering, and Ma
 Prior to my graduate studies in Austin, I obtained a Bachelors of Applied Science degree from The University of British Columbia, where I studied Engineering Physics and minored in Honours Mathematics.
 
 ### Research Interests
-I'm interested in studying how prior knowledge can be incorporated into reinforcement learning (RL) systems in order to improve their data efficiency and their generalizability, as well as to yield policies with verifiable properties. My two most recent projects have focused on [compositional RL systems](../_publications/2021_verifiable_and_compositional_rl.md), and on [using physics-based knowledge](../_publications/2021_neural_networks_with_physics_informed_architectures_and_constraints.md) to improve the data efficiency and generalizability of neural network models of dynamical systems.
+I'm interested in studying how prior knowledge can be incorporated into deep learning and reinforcement learning algorithms in order to improve their data efficiency and their generalizability, as well as to yield policies with verifiable properties. Two of my recent projects have focused on [compositional RL systems](../_publications/2021_verifiable_and_compositional_rl.md), and on [using physics-based knowledge](../_publications/2023_how_to_sde_in_3_mins.md) to improve the data efficiency and generalizability of neural network models of dynamical systems.
 
 <!-- Developing methods to incorporate prior knowledge into reinforcement learning algorithms in order to improve their data efficiency and robustness, as well as to yield policies with verifiable properties. -->
 

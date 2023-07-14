@@ -36,7 +36,7 @@ Many dynamical systems -- from robots interacting with their surroundings to lar
 
 <!-- We compose collections of PHNNs by using the system's physics-informed interconnection structure, which may be known a priori, or may itself be learned from data. We demonstrate the novel capabilities of the proposed framework through numerical examples involving interacting spring-mass-damper systems. Models of these systems, which include nonlinear energy dissipation and control inputs, are learned independently. Accurate compositions are learned using an amount of training data that is negligible in comparison with that required to train a new model from scratch. Finally, we observe that the composite PHNNs enjoy properties of port-Hamiltonian systems, such as cyclo-passivity -- a property that is useful for control purposes.  -->
 
-[Read More](../_publications/2022_compositional_ph_nodes.md) \| [Paper](https://arxiv.org/abs/2212.00893) \| [Code](https://github.com/cyrusneary/compositional_port_hamiltonian_NNs)
+[Read More](../_publications/2022_compositional_ph_nodes.md) \| [Paper](https://arxiv.org/abs/2212.00893) \| [Poster](../files/2023_l4dc_poster.pdf) \| [Code](https://github.com/cyrusneary/compositional_port_hamiltonian_NNs)
 
 ---
 

@@ -7,7 +7,7 @@ author_profile: true
 
 **Cyrus Neary** and Ufuk Topcu<br><span style="font-size:12pt">*The Learning for Dynamics and Control Conference (L4DC) 2023*.</span>
 
-[Paper](https://arxiv.org/abs/2212.00893) \| [Code](https://github.com/cyrusneary/compositional_port_hamiltonian_NNs)
+[Paper](https://arxiv.org/abs/2212.00893) \| [Poster](../files/2023_l4dc_poster.pdf) \| [Code](https://github.com/cyrusneary/compositional_port_hamiltonian_NNs)
 
 <!-- <img 
 src="/images/ph_node_idea_illustration.png" 
