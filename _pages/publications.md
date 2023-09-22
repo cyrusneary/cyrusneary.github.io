@@ -10,7 +10,7 @@ author_profile: true
 
 **[How to Learn and Generalize From Three Minutes of Data: Physics-Constrained and Uncertainty-Aware Neural Stochastic Differential Equations](../_publications/2023_how_to_sde_in_3_mins.md)**
 
-Franck Djeumou<sup>\*</sup>, **Cyrus Neary**<sup>\*</sup>, and Ufuk Topcu<br><span style="font-size:12pt">Under review at *The Conference on Robot Learning (CORL) 2023*</span><br><span style="font-size:10pt;"> <sup>*</sup> indicates equal contribution. </span>
+Franck Djeumou<sup>\*</sup>, **Cyrus Neary**<sup>\*</sup>, and Ufuk Topcu<br><span style="font-size:12pt">*The Conference on Robot Learning (CORL) 2023* --- oral presentation.</span><br><span style="font-size:10pt;"> <sup>*</sup> indicates equal contribution. </span>
 
 [Read More](../_publications/2023_how_to_sde_in_3_mins.md) \| [Paper](https://arxiv.org/abs/2306.06335) \| [Videos](https://tinyurl.com/29xr5vya)
 
@@ -59,7 +59,7 @@ Privacy-aware multiagent systems must protect agents' sensitive data while simul
 
 **[Physics-Informed Kernel Embeddings: Integrating Prior System Knowledge with Data-Driven Control](../_publications/2023_physics_informed_kernel_embeddings.md)**
 
-Adam J. Thorpe<sup>\*</sup>, **Cyrus Neary**<sup>\*</sup>, Franck Djeumou<sup>\*</sup>, Meeko M. K. Oishi, and Ufuk Topcu<br><span style="font-size:12pt">Under review at *The Conference on Decision and Control (CDC) 2023*</span><br><span style="font-size:10pt;"> <sup>*</sup> indicates equal contribution. </span>
+Adam J. Thorpe<sup>\*</sup>, **Cyrus Neary**<sup>\*</sup>, Franck Djeumou<sup>\*</sup>, Meeko M. K. Oishi, and Ufuk Topcu<br><span style="font-size:12pt">Under review at *The American Control Conference (ACC) 2024*.</span><br><span style="font-size:10pt;"> <sup>*</sup> indicates equal contribution. </span>
 
 <img 
 src="/images/rkhs_intro_figure.png" 

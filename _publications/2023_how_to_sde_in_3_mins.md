@@ -5,7 +5,7 @@ permalink: /publications/how_to_learn_from_three_minutes_of_data
 author_profile: true
 ---
 
-Franck Djeumou<sup>\*</sup>, **Cyrus Neary**<sup>\*</sup>, and Ufuk Topcu<br><span style="font-size:12pt">Under review at *The Conference on Robot Learning (CORL) 2023*</span><br><span style="font-size:10pt;"> <sup>*</sup> indicates equal contribution. </span>
+Franck Djeumou<sup>\*</sup>, **Cyrus Neary**<sup>\*</sup>, and Ufuk Topcu<br><span style="font-size:12pt">*The Conference on Robot Learning (CORL) 2023* --- oral presentation.</span><br><span style="font-size:10pt;"> <sup>*</sup> indicates equal contribution. </span>
 
 [Paper](https://arxiv.org/abs/2306.06335) \| [Videos](https://tinyurl.com/29xr5vya)
 

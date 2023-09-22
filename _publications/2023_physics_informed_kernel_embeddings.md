@@ -5,7 +5,7 @@ permalink: /publications/physics_informed_kernel_embeddings
 author_profile: true
 ---
 
-Adam J. Thorpe<sup>\*</sup>, **Cyrus Neary**<sup>\*</sup>, Franck Djeumou<sup>\*</sup>, Meeko M. K. Oishi, and Ufuk Topcu<br><span style="font-size:12pt">Under review at *The Learning for Dynamics and Control Conference (L4DC) 2023*</span><br><span style="font-size:10pt;"> <sup>*</sup> indicates equal contribution. </span>
+Adam J. Thorpe<sup>\*</sup>, **Cyrus Neary**<sup>\*</sup>, Franck Djeumou<sup>\*</sup>, Meeko M. K. Oishi, and Ufuk Topcu<br><span style="font-size:12pt">Under review at *The American Control Conference (ACC) 2024*.</span><br><span style="font-size:10pt;"> <sup>*</sup> indicates equal contribution. </span>
 
 [Paper](https://arxiv.org/abs/2301.03565) \| [Code](https://github.com/ajthor/socks)
 
