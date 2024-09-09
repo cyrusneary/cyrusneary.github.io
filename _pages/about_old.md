@@ -8,25 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I'm a postdoctoral researcher at [Mila](https://mila.quebec/en) and [l'Université de Montréal](https://diro.umontreal.ca/accueil/), where I work with Professor Glen Berseth as a member of the [Robotics and Embodied AI Lab](https://montrealrobotics.ca/). In Fall 2025, I will begin as an assistant professor in the Department of Electrical and Computer Engineering at [The University of British Columbia](https://ece.ubc.ca/).
-
-I received a Ph.D. in Computational Science, Engineering, and Mathematics from [The Oden Institute](https://www.oden.utexas.edu/) at The University of Texas at Austin in 2024. There, I worked with Professor Ufuk Topcu as a member of the [Center for Autonomy](https://oden.utexas.edu/research/centers-and-groups/center-for-autonomy/). I was also a member of the [Center for Scientific Machine Learning](https://oden.utexas.edu/research/centers-and-groups/center-for-scientific-machine-learning/). 
+Welcome! I'm a Ph.D. student studying Computational Science, Engineering, and Mathematics within [The Oden Institute](https://www.oden.utexas.edu/) at The University of Texas at Austin. I work with Professor Ufuk Topcu as a member of the [Center for Autonomy](https://oden.utexas.edu/research/centers-and-groups/center-for-autonomy/). I'm also a member of the [Center for Scientific Machine Learning](https://oden.utexas.edu/research/centers-and-groups/center-for-scientific-machine-learning/). 
 <!-- I'm a member of Professor Ufuk Topcu's [Autonomous Systems Group](https://www.ae.utexas.edu/facultysites/topcu/wiki/index.php/Main_Page).  -->
 
 Prior to my graduate studies in Austin, I obtained a Bachelors of Applied Science degree from The University of British Columbia, where I studied Engineering Physics and minored in Honours Mathematics.
 
 ### Research Interests
-Realizing the full potential of artificial intelligence (AI) requires a dual approach: developing engineering methodologies to design AI systems, and designing AI algorithms to solve specific engineering problems. My research leverages this dual perspective to develop AI systems for purposes of **control, robotics, autonomy, dynamics modeling, and computational engineering**. Specifically, my research asks: how can we engineer AI systems within budget constraints, certify them against stakeholder requirements, and ensure that they meet the needs of the end user? On the other hand, how can we design AI algorithms that embrace the unique characteristics of engineering applications?
-
-Towards answering these questions, my research develops theory and algorithms that span topics from **multiagent reinforcement learning, to physics-informed machine learning, to the reliable use of large language models in the design of autonomous systems**. More broadly, my research addresses the diverse and ever-expanding challenges and opportunities associated with engineering AI systems to tackle societally impactful problems. 
-<!-- I have applied these algorithms to enable unprecedented autonomy for air and ground robots; I developed a multifidelity simulation-to-reality pipeline to train, verify, and deploy deep reinforcement learning policies that pilot unmanned ground vehicles, and I used physics-informed learning to develop model-based controllers for hexacopter hardware from extremely scarce datasets. -->
-
-If you're interested in learning more, click [here](publications.md) for a list of my recent projects.
-
-<!-- I'm interested in studying how prior knowledge can be incorporated into deep learning and reinforcement learning algorithms in order to improve their data efficiency and their generalizability, as well as to yield policies with verifiable properties. Two of my recent projects have focused on [compositional RL systems](../_publications/2021_verifiable_and_compositional_rl.md), and on [using physics-based knowledge](../_publications/2023_how_to_sde_in_3_mins.md) to improve the data efficiency and generalizability of neural network models of dynamical systems. -->
+I'm interested in studying how prior knowledge can be incorporated into deep learning and reinforcement learning algorithms in order to improve their data efficiency and their generalizability, as well as to yield policies with verifiable properties. Two of my recent projects have focused on [compositional RL systems](../_publications/2021_verifiable_and_compositional_rl.md), and on [using physics-based knowledge](../_publications/2023_how_to_sde_in_3_mins.md) to improve the data efficiency and generalizability of neural network models of dynamical systems.
 
 <!-- Developing methods to incorporate prior knowledge into reinforcement learning algorithms in order to improve their data efficiency and robustness, as well as to yield policies with verifiable properties. -->
 
+If you're interested in learning more, click [here](publications.md) for a list of my recent projects.
 
 <!-- I'm interested in studying how prior knowledge can be incorporated into reinforcement learning systems, and how such structured information may be used for the formal verification of said systems. -->
 
