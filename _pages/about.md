@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I'm a postdoctoral researcher at [Mila](https://mila.quebec/en) and [l'Université de Montréal](https://diro.umontreal.ca/accueil/), where I work with Professor Glen Berseth as a member of the [Robotics and Embodied AI Lab](https://montrealrobotics.ca/). In Fall 2025, I will begin as an assistant professor in the Department of Electrical and Computer Engineering at [The University of British Columbia](https://ece.ubc.ca/).
+Welcome! I'm a postdoctoral researcher in the the [Robotics and Embodied AI Lab](https://montrealrobotics.ca/) at [Mila](https://mila.quebec/en) and [l'Université de Montréal](https://diro.umontreal.ca/accueil/). In Fall 2025, I will begin as an assistant professor in the Department of Electrical and Computer Engineering at [The University of British Columbia](https://ece.ubc.ca/).
 
 I received a Ph.D. in Computational Science, Engineering, and Mathematics from [The Oden Institute](https://www.oden.utexas.edu/) at The University of Texas at Austin in 2024. There, I worked with Professor Ufuk Topcu as a member of the [Center for Autonomy](https://oden.utexas.edu/research/centers-and-groups/center-for-autonomy/). I was also a member of the [Center for Scientific Machine Learning](https://oden.utexas.edu/research/centers-and-groups/center-for-scientific-machine-learning/). 
 <!-- I'm a member of Professor Ufuk Topcu's [Autonomous Systems Group](https://www.ae.utexas.edu/facultysites/topcu/wiki/index.php/Main_Page).  -->
