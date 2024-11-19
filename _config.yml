@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Cyrus Neary"
   avatar           : "headshot.jpg"
-  bio              : "Postdoctoral researcher at Mila. Incoming assistant professor at UBC."
+  bio              : "Incoming assistant professor at UBC. Postdoctoral researcher at Mila."
   location         : #"Austin, TX"
   employer         : #"The University of Texas at Austin"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=z4JrPP0AAAAJ&hl=en&oi=ao"
-  email            : "cneary@utexas.edu"
+  email            : "cyrus.neary@ubc.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
