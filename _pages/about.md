@@ -1,43 +1,49 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Welcome!"
+# excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Welcome! 
+I'm an incoming tenure-track assistant professor in the Department of  Electrical and Computer Engineering at [The University of British Columbia (UBC)](https://ece.ubc.ca/), where I will direct the **Artificial Intelligence for Robotics & Engineering (AIRE)** Lab.
+<!-- In Fall 2025, I will begin as a tenure-track assistant professor in the Department of Electrical and Computer Engineering at [The University of British Columbia (UBC)](https://ece.ubc.ca/).  -->
 
-In Fall 2025, I will begin as an assistant professor in the Department of Electrical and Computer Engineering at [The University of British Columbia](https://ece.ubc.ca/).
+<div style="text-align: center; margin-bottom: 20px; margin-top: 20px;">
+  <img 
+  src="/images/aire_lab_logo.png" 
+  width=400>
+</div>
+
+## We're Hiring
+The AIRE Lab is looking for highly motivated graduate students that are interested in advancing research at the intersection of **machine learning, reinforcement learning, robotics, control, autonomous systems, and computational modeling**.
+We have openings for fully funded MASc and PhD positions within the Department of Electrical and Computer Engineering at UBC's Vancouver campus, beginning September 2025.
+More details can be found in the following [application instructions](/files/2025_fall_aire_lab_job_posting.pdf).
+
+The first round of application reviews will take place on **December 20th, 2024**. 
+For PhD applicants, applications submitted before **December 31st, 2024** are preferred and will be considered by the department for a four-year fellowship.
+The final deadline for all applicants is **January 15th, 2025**.
+
+
+## Research Interests
+Realizing the full potential of artificial intelligence (AI) requires a dual approach: developing engineering methodologies to design AI systems, and designing AI algorithms to solve specific engineering problems. My research leverages this dual perspective to develop AI systems for purposes of **control, robotics, autonomy, dynamics modeling, and computational engineering**. Specifically, my research asks: how can we engineer AI systems within budget constraints, certify them against stakeholder requirements, and ensure that they meet the needs of the end user? On the other hand, how can we design AI algorithms that embrace the unique characteristics of engineering applications?
+
+Towards answering these questions, my research develops theory and algorithms that span topics from **multiagent reinforcement learning, to physics-informed machine learning, to the reliable use of large language models in the design of autonomous systems**. Through *compositional approaches to system design*, my research enables independent development and testing of separate AI modules, 
+with the goal of facilitating the process of reliably deploying their compositions in practice. By *integrating data with prior physics and engineering knowledge*, my research creates systems that effectively control hardware after mere minutes of data collection and training. More broadly, my research aims to address the diverse and ever-expanding challenges and opportunities associated with engineering AI systems to tackle societally impactful problems.
+
+If you're interested in learning more, see my [publications](publications.md) for an overview of relevant past projects.
+
+<!-- If you're interested in learning more, click [here](publications.md) for a list of my recent projects. -->
+
+## About Me
 I'm currently a postdoctoral researcher in the the [Robotics and Embodied AI Lab](https://montrealrobotics.ca/) at [Mila](https://mila.quebec/en) and [l'Université de Montréal](https://diro.umontreal.ca/accueil/). 
 
 I received my Ph.D. (2024) and M.Sc. (2021) degrees in Computational Science, Engineering, and Mathematics from [The Oden Institute](https://www.oden.utexas.edu/) at [The University of Texas at Austin](https://www.utexas.edu/). There, I worked with Professor Ufuk Topcu as a member of the [Center for Autonomy](https://oden.utexas.edu/research/centers-and-groups/center-for-autonomy/). I was also a member of the [Center for Scientific Machine Learning](https://oden.utexas.edu/research/centers-and-groups/center-for-scientific-machine-learning/). 
 <!-- I'm a member of Professor Ufuk Topcu's [Autonomous Systems Group](https://www.ae.utexas.edu/facultysites/topcu/wiki/index.php/Main_Page).  -->
 
 Prior to my graduate studies in Austin, I obtained a Bachelors of Applied Science degree from The University of British Columbia, where I studied Engineering Physics and minored in Honours Mathematics.
-
-### Research Interests
-Realizing the full potential of artificial intelligence (AI) requires a dual approach: developing engineering methodologies to design AI systems, and designing AI algorithms to solve specific engineering problems. My research leverages this dual perspective to develop AI systems for purposes of **control, robotics, autonomy, dynamics modeling, and computational engineering**. Specifically, my research asks: how can we engineer AI systems within budget constraints, certify them against stakeholder requirements, and ensure that they meet the needs of the end user? On the other hand, how can we design AI algorithms that embrace the unique characteristics of engineering applications?
-
-Towards answering these questions, my research develops theory and algorithms that span topics from **multiagent reinforcement learning, to physics-informed machine learning, to the reliable use of large language models in the design of autonomous systems**. Through *compositional approaches to system design*, my research enables independent development and testing of separate AI modules, 
-with the goal of facilitating the process of reliably deploying their compositions in practice. By *integrating data with prior physics and engineering knowledge*, my research creates systems that effectively control hardware after mere minutes of data collection and training. More broadly, my research aims to address the diverse and ever-expanding challenges and opportunities associated with engineering AI systems to tackle societally impactful problems. 
-<!-- I have applied these algorithms to enable unprecedented autonomy for air and ground robots; I developed a multifidelity simulation-to-reality pipeline to train, verify, and deploy deep reinforcement learning policies that pilot unmanned ground vehicles, and I used physics-informed learning to develop model-based controllers for hexacopter hardware from extremely scarce datasets. -->
-
-If you're interested in learning more, click [here](publications.md) for a list of my recent projects.
-
-<!-- I'm interested in studying how prior knowledge can be incorporated into deep learning and reinforcement learning algorithms in order to improve their data efficiency and their generalizability, as well as to yield policies with verifiable properties. Two of my recent projects have focused on [compositional RL systems](../_publications/2021_verifiable_and_compositional_rl.md), and on [using physics-based knowledge](../_publications/2023_how_to_sde_in_3_mins.md) to improve the data efficiency and generalizability of neural network models of dynamical systems. -->
-
-<!-- Developing methods to incorporate prior knowledge into reinforcement learning algorithms in order to improve their data efficiency and robustness, as well as to yield policies with verifiable properties. -->
-
-
-<!-- I'm interested in studying how prior knowledge can be incorporated into reinforcement learning systems, and how such structured information may be used for the formal verification of said systems. -->
-
-<!-- He is interested in studying how prior knowledge can be incorporated into reinforcement learning (RL) systems, and how such information may be used for the formal verification of said systems, particularly in the context of safety-critical engineering applications. His recent research has focused on compositional RL systems; complex (or multi-agent) systems are decomposed into their constituent components to simplify learning, while theoretical guarantees are developed to assure that compositions of such components satisfy system-level requirements. -->
-
-<!-- **Other Intersts**
-In my free time I enjoy reading fiction, taking photos, and playing video games. -->
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
