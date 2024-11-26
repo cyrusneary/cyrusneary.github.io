@@ -38,7 +38,7 @@ If you're interested in learning more, see my [publications](publications.md) fo
 <!-- If you're interested in learning more, click [here](publications.md) for a list of my recent projects. -->
 
 ## About Me
-I'm currently a postdoctoral researcher in the the [Robotics and Embodied AI Lab](https://montrealrobotics.ca/) at [Mila](https://mila.quebec/en) and [l'Université de Montréal](https://diro.umontreal.ca/accueil/). 
+I'm currently a postdoctoral researcher in the [Robotics and Embodied AI Lab](https://montrealrobotics.ca/) at [Mila](https://mila.quebec/en) and [l'Université de Montréal](https://diro.umontreal.ca/accueil/). 
 
 I received my Ph.D. (2024) and M.Sc. (2021) degrees in Computational Science, Engineering, and Mathematics from [The Oden Institute](https://www.oden.utexas.edu/) at [The University of Texas at Austin](https://www.utexas.edu/). There, I worked with Professor Ufuk Topcu as a member of the [Center for Autonomy](https://oden.utexas.edu/research/centers-and-groups/center-for-autonomy/). I was also a member of the [Center for Scientific Machine Learning](https://oden.utexas.edu/research/centers-and-groups/center-for-scientific-machine-learning/). 
 <!-- I'm a member of Professor Ufuk Topcu's [Autonomous Systems Group](https://www.ae.utexas.edu/facultysites/topcu/wiki/index.php/Main_Page).  -->
