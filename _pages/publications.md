@@ -1,16 +1,33 @@
 ---
 layout: archive
-title: "Publications"
+title: "Featured Publications"
 permalink: /publications/
 author_profile: true
 ---
 <!-- <span style="font-size:12pt;"> <sup>*</sup> indicates equal contribution. </span> -->
 
+A more complete list of my publications is available [here](https://scholar.google.com/citations?user=z4JrPP0AAAAJ&hl=en&oi=ao).
+
+---
+
+**[A Multifidelity Sim-to-Real Pipeline for Verifiable and Compositional Reinforcement Learning](../_publications/2024_multifidelity_sim_to_real_rl.md)**
+
+Cyrus Neary, Christian Ellis, Aryaman Singh Samyal, Craig Lennon, and Ufuk Topcu<br><span style="font-size:12pt">*The IEEE International Conference on Robotics and Automation (ICRA) 2024*.</span>
+
+<img 
+src="/images/multifidelity_sim_to_real_rl.gif" 
+width=500 
+style="float: right; margin-left: 10px; margin-right: 10px;">
+
+We propose and demonstrate a compositional framework for training and verifying reinforcement learning (RL) systems within a multifidelity sim-to-real pipeline, in order to deploy reliable and adaptable RL policies on physical hardware. By decomposing complex robotic tasks into component subtasks and defining mathematical interfaces between them, the framework allows for the independent training and testing of the corresponding subtask policies, while simultaneously providing guarantees on the overall behavior that results from their composition. By verifying the performance of these subtask policies using a multifidelity simulation pipeline, the framework not only allows for efficient RL training, but also for a refinement of the subtasks and their interfaces in response to challenges arising from discrepancies between simulation and reality. In an experimental case study we apply the framework to train and deploy a compositional RL system that successfully pilots a Warthog unmanned ground robot.
+
+[Read More](../_publications/2024_multifidelity_sim_to_real_rl.md) \| [Paper](https://arxiv.org/abs/2312.01249) \| [Poster](../files/2024_icra_poster.pdf)
+
 ---
 
 **[How to Learn and Generalize From Three Minutes of Data: Physics-Constrained and Uncertainty-Aware Neural Stochastic Differential Equations](../_publications/2023_how_to_sde_in_3_mins.md)**
 
-Franck Djeumou<sup>\*</sup>, **Cyrus Neary**<sup>\*</sup>, and Ufuk Topcu<br><span style="font-size:12pt">*The Conference on Robot Learning (CORL) 2023* --- oral presentation.</span><br><span style="font-size:10pt;"> <sup>*</sup> indicates equal contribution. </span>
+Franck Djeumou<sup>\*</sup>, Cyrus Neary<sup>\*</sup>, and Ufuk Topcu<br><span style="font-size:12pt">*The Conference on Robot Learning (CORL) 2023* --- oral presentation.</span><br><span style="font-size:10pt;"> <sup>*</sup> indicates equal contribution. </span>
 
 <!-- src="/images/hexa_fig_8_v2.png"  -->
 <img 
@@ -26,7 +43,7 @@ We present a framework and algorithms to learn controlled dynamics models using 
 
 **[Compositional Learning of Dynamical System Models Using Port-Hamiltonian Neural Networks](../_publications/2022_compositional_ph_nodes.md)**
 
-**Cyrus Neary** and Ufuk Topcu<br><span style="font-size:12pt">*The Learning for Dynamics and Control Conference (L4DC) 2023*.</span>
+Cyrus Neary and Ufuk Topcu<br><span style="font-size:12pt">*The Learning for Dynamics and Control Conference (L4DC) 2023*.</span>
 
 <img 
 src="/images/ph_node_idea_illustration.png" 
@@ -43,7 +60,7 @@ Many dynamical systems -- from robots interacting with their surroundings to lar
 
 **[Differential Privacy in Cooperative Multiagent Planning](../_publications/2023_differential_privacy_in_cooperative_multiagent_planning.md)**
 
-Bo Chen<sup>\*</sup>, Calvin Hawkins<sup>\*</sup>, Mustafa O. Karabag<sup>\*</sup>, **Cyrus Neary**<sup>\*</sup>, Matthew Hale, and Ufuk Topcu<br><span style="font-size:12pt">*The Conference on Uncertainty in Aritifical Intelligence (UAI) 2023*.</span><br><span style="font-size:10pt;"> <sup>*</sup> indicates equal contribution. </span>
+Bo Chen<sup>\*</sup>, Calvin Hawkins<sup>\*</sup>, Mustafa O. Karabag<sup>\*</sup>, Cyrus Neary<sup>\*</sup>, Matthew Hale, and Ufuk Topcu<br><span style="font-size:12pt">*The Conference on Uncertainty in Aritifical Intelligence (UAI) 2023*.</span><br><span style="font-size:10pt;"> <sup>*</sup> indicates equal contribution. </span>
 
 <img 
 src="/images/differential_privacy_results_screenshot.png" 
@@ -60,7 +77,7 @@ Privacy-aware multiagent systems must protect agents' sensitive data while simul
 
 **[Physics-Informed Kernel Embeddings: Integrating Prior System Knowledge with Data-Driven Control](../_publications/2023_physics_informed_kernel_embeddings.md)**
 
-Adam J. Thorpe<sup>\*</sup>, **Cyrus Neary**<sup>\*</sup>, Franck Djeumou<sup>\*</sup>, Meeko M. K. Oishi, and Ufuk Topcu<br><span style="font-size:12pt">Under review at *The American Control Conference (ACC) 2024*.</span><br><span style="font-size:10pt;"> <sup>*</sup> indicates equal contribution. </span>
+Adam J. Thorpe<sup>\*</sup>, Cyrus Neary<sup>\*</sup>, Franck Djeumou<sup>\*</sup>, Meeko M. K. Oishi, and Ufuk Topcu<br><span style="font-size:12pt">*The IEEE American Control Conference (ACC) 2024*.</span><br><span style="font-size:10pt;"> <sup>*</sup> indicates equal contribution. </span>
 
 <img 
 src="/images/rkhs_intro_figure.png" 
@@ -79,7 +96,7 @@ Data-driven control algorithms use observations of system dynamics to construct 
 
 **[Verifiable and Compositional Reinforcement Learning Systems](../_publications/2021_verifiable_and_compositional_rl.md)**
 
-**Cyrus Neary**, Christos Verginis, Murat Cubuktepe, and Ufuk Topcu<br><span style="font-size:12pt">*The International Conference on Automated Planning and Scheduling (ICAPS) 2022*.</span>
+Cyrus Neary, Christos Verginis, Murat Cubuktepe, and Ufuk Topcu<br><span style="font-size:12pt">*The International Conference on Automated Planning and Scheduling (ICAPS) 2022*.</span>
 
 <img 
 src="/images/compositional_rl.gif" 
@@ -94,7 +111,7 @@ We propose a framework for verifiable and compositional reinforcement learning (
 
 **[Taylor-Lagrange Neural Ordinary Differential Equations: Toward Fast Training and Evaluation of Neural ODEs](../_publications/2022_taylor_lagrange_nodes.md)**
 
-Franck Djeumou<sup>\*</sup>, **Cyrus Neary**<sup>\*</sup>, Eric Goubault, Sylvie Putot, and Ufuk Topcu<br><span style="font-size:12pt">*The International Joint Conferences on Artificial Intelligence (IJCAI) 2022*.</span><br><span style="font-size:10pt;"> <sup>*</sup> indicates equal contribution. </span>
+Franck Djeumou<sup>\*</sup>, Cyrus Neary<sup>\*</sup>, Eric Goubault, Sylvie Putot, and Ufuk Topcu<br><span style="font-size:12pt">*The International Joint Conferences on Artificial Intelligence (IJCAI) 2022*.</span><br><span style="font-size:10pt;"> <sup>*</sup> indicates equal contribution. </span>
 
 <img 
 src="/images/tl_node_bar_charts.png" 
@@ -110,7 +127,7 @@ We accelerate the training and evaluation of Neural Ordinary Differential Equati
 
 **[Planning Not to Talk: Multiagent Systems that are Robust to Communication Loss](../_publications/2022_planning_not_to_talk.md)**
 
-Mustafa O. Karabag<sup>\*</sup>, **Cyrus Neary**<sup>\*</sup>, and Ufuk Topcu<br><span style="font-size:12pt">*The International Conference on Autonomous Agents and Multiagent Systems (AAMAS) 2022*.</span><br><span style="font-size:10pt;"> <sup>*</sup> indicates equal contribution. </span>
+Mustafa O. Karabag<sup>\*</sup>, Cyrus Neary<sup>\*</sup>, and Ufuk Topcu<br><span style="font-size:12pt">*The International Conference on Autonomous Agents and Multiagent Systems (AAMAS) 2022*.</span><br><span style="font-size:10pt;"> <sup>*</sup> indicates equal contribution. </span>
 
 <img 
 src="/images/intermittent_comms_labeled.png" 
@@ -125,7 +142,7 @@ In a cooperative multiagent system, a collection of agents executes a joint poli
 
 **[Neural Networks with Physics-Informed Architectures and Constraints for Dynamical Systems Modeling](../_publications/2021_neural_networks_with_physics_informed_architectures_and_constraints.md)**
 
-Franck Djeumou<sup>\*</sup>, **Cyrus Neary**<sup>\*</sup>, Eric Goubault, Sylvie Putot, and Ufuk Topcu<br><span style="font-size:12pt">*The Learning for Dynamics and Control Conference (L4DC) 2022*.</span><br><span style="font-size:10pt;"> <sup>*</sup> indicates equal contribution. </span>
+Franck Djeumou<sup>\*</sup>, Cyrus Neary<sup>\*</sup>, Eric Goubault, Sylvie Putot, and Ufuk Topcu<br><span style="font-size:12pt">*The Learning for Dynamics and Control Conference (L4DC) 2022*.</span><br><span style="font-size:10pt;"> <sup>*</sup> indicates equal contribution. </span>
 
 <img 
 src="/images/pinode_results.gif" 
@@ -142,14 +159,14 @@ Effective inclusion of physics-based knowledge into deep neural network models o
 
 **[Multiscale Heterogeneous Optimal Lockdown Control for COVID-19 Using Geographic Information](../_publications/2022_covid_paper.md)**
 
-**Cyrus Neary**, Murat Cubuktepe, Niklas Lauffer, Xueting Jin, Alexander J. Phillips, Zhe Xu, Daoqin Tong, and Ufuk Topcu<br><span style="font-size:12pt">*Scientific Reports*.</span>
+Cyrus Neary, Murat Cubuktepe, Niklas Lauffer, Xueting Jin, Alexander J. Phillips, Zhe Xu, Daoqin Tong, and Ufuk Topcu<br><span style="font-size:12pt">*Scientific Reports*.</span>
 
 <img 
 src="/images/heterogeneous_control_idea.png" 
 width=700 
 style="float: right; margin-left: 10px; margin-right: 10px;">
 
-**Abstract:** We study the problem of synthesizing lockdown policies—schedules of maximum capacities for different types of activity sites—to minimize the number of deceased individuals due to a pandemic within a given metropolitan statistical area (MSA) while controlling the severity of the imposed lockdown. To synthesize and evaluate lockdown policies, we develop a multiscale susceptible, infected, recovered, and deceased model that partitions a given MSA into geographic subregions, and that incorporates data on the behaviors of the populations of these subregions. This modeling approach allows for the analysis of heterogeneous lockdown policies that vary across the different types of activity sites within each subregion of the MSA. We formulate the synthesis of optimal lockdown policies as a nonconvex optimization problem and we develop an iterative algorithm that addresses this nonconvexity through sequential convex programming. 
+We study the problem of synthesizing lockdown policies—schedules of maximum capacities for different types of activity sites—to minimize the number of deceased individuals due to a pandemic within a given metropolitan statistical area (MSA) while controlling the severity of the imposed lockdown. To synthesize and evaluate lockdown policies, we develop a multiscale susceptible, infected, recovered, and deceased model that partitions a given MSA into geographic subregions, and that incorporates data on the behaviors of the populations of these subregions. This modeling approach allows for the analysis of heterogeneous lockdown policies that vary across the different types of activity sites within each subregion of the MSA. We formulate the synthesis of optimal lockdown policies as a nonconvex optimization problem and we develop an iterative algorithm that addresses this nonconvexity through sequential convex programming. 
 <!-- We empirically demonstrate the effectiveness of the developed approach by applying it to six of the largest MSAs in the United States. The developed heterogeneous lockdown policies not only reduce the number of deceased individuals by up to 45 percent over a 100 day period in comparison with three baseline lockdown policies that are less heterogeneous, but they also impose lockdowns that are less severe. -->
 
 [Read More](../_publications/2022_covid_paper.md) \| [Paper](https://www.nature.com/articles/s41598-022-07692-5) \| [Code](https://github.com/cyrusneary/multiscaleLockdownCovid19)
@@ -158,7 +175,7 @@ style="float: right; margin-left: 10px; margin-right: 10px;">
 
 **[Reward Machines for Cooperative Multi-Agent Reinforcement Learning](../_publications/2021_rms_for_cooperative_marl.md)**
 
-**Cyrus Neary**, Zhe Xu, Bo Wu, and Ufuk Topcu<br><span style="font-size:12pt">*The International Conference on Autonomous Agents and Multiagent Systems (AAMAS) 2021*.</span>
+Cyrus Neary, Zhe Xu, Bo Wu, and Ufuk Topcu<br><span style="font-size:12pt">*The International Conference on Autonomous Agents and Multiagent Systems (AAMAS) 2021*.</span>
 
 <img 
 src="/images/rm_marl.gif" 
@@ -177,7 +194,7 @@ In cooperative multi-agent reinforcement learning, a collection of agents learns
 
 **[Smooth Convex Optimization Using Sub-Zeroth-Order Oracles](../_publications/2021_smooth_convex_opt_using.md)**
 
-Mustafa O. Karabag, **Cyrus Neary**, and Ufuk Topcu<br><span style="font-size:12pt">*The AAAI Conference on Artificial Intelligence (AAAI) 2021*.</span>
+Mustafa O. Karabag, Cyrus Neary, and Ufuk Topcu<br><span style="font-size:12pt">*The AAAI Conference on Artificial Intelligence (AAAI) 2021*.</span>
 
 <img 
 src="/images/labeled_gradient_pruning.png" 
