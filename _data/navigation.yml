@@ -15,8 +15,11 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  - title: "CV"
-    url: /files/cyrus_cv.pdf
+  # - title: "CV"
+  #   url: /files/cyrus_cv.pdf
+
+  - title: "Join the Lab"
+    url: /files/2025_fall_aire_lab_job_posting.pdf
 
   # - title: "Resume"
   #   url: /files/cyrus_resume.pdf
