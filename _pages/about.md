@@ -20,7 +20,7 @@ I'm an incoming tenure-track assistant professor in the Department of  Electrica
 ## We're Hiring
 The AIRE Lab is looking for highly motivated graduate students that are interested in advancing research at the intersection of **machine learning, reinforcement learning, robotics, control, autonomous systems, and computational modeling**.
 We have openings for fully funded MASc and PhD positions within the Department of Electrical and Computer Engineering at UBC's Vancouver campus, beginning September 2025.
-More details can be found in the following [application instructions](/files/2025_fall_aire_lab_job_posting.pdf).
+More details can be found in the following [application instructions](/joinAIRE/).
 
 The first round of application reviews will take place on **December 20th, 2024**. 
 For PhD applicants, applications submitted before **December 31st, 2024** are preferred and will be considered by the department for a four-year fellowship.
