@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm an incoming tenure-track assistant professor in the Department of  Electrical and Computer Engineering at [The University of British Columbia (UBC)](https://ece.ubc.ca/), where I will direct the **Artificial Intelligence for Robotics & Engineering (AIRE)** Lab.
+I'm an incoming tenure-track assistant professor in the Department of  Electrical and Computer Engineering at [The University of British Columbia (UBC)](https://ece.ubc.ca/), where I will direct the **Artificial Intelligence in Robotics & Engineering (AIRE)** Lab.
 <!-- In Fall 2025, I will begin as a tenure-track assistant professor in the Department of Electrical and Computer Engineering at [The University of British Columbia (UBC)](https://ece.ubc.ca/).  -->
 
 <div style="text-align: center; margin-bottom: 20px; margin-top: 20px;">
