@@ -18,8 +18,8 @@ main:
   # - title: "CV"
   #   url: /files/cyrus_cv.pdf
 
-  - title: "Join the Lab"
-    url: /joinAIRE/
+  # - title: "Join the Lab"
+  #   url: /joinAIRE/
 
   # - title: "Resume"
   #   url: /files/cyrus_resume.pdf

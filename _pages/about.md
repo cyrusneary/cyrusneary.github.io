@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm an incoming tenure-track assistant professor in the Department of  Electrical and Computer Engineering at [The University of British Columbia (UBC)](https://ece.ubc.ca/), where I will direct the **Artificial Intelligence in Robotics & Engineering (AIRE)** Lab.
+I'm a tenure-track assistant professor in the Department of  Electrical and Computer Engineering at [The University of British Columbia (UBC)](https://ece.ubc.ca/), where I direct the **Artificial Intelligence in Robotics & Engineering (AIRE)** Lab.
 <!-- In Fall 2025, I will begin as a tenure-track assistant professor in the Department of Electrical and Computer Engineering at [The University of British Columbia (UBC)](https://ece.ubc.ca/).  -->
 
 <div style="text-align: center; margin-bottom: 20px; margin-top: 20px;">
@@ -17,14 +17,14 @@ I'm an incoming tenure-track assistant professor in the Department of  Electrica
   width=400>
 </div>
 
-## We're Hiring
+<!-- ## We're Hiring
 The AIRE Lab is looking for highly motivated graduate students that are interested in advancing research at the intersection of **machine learning, reinforcement learning, robotics, control, autonomous systems, and computational modeling**.
 We have openings for fully funded MASc and PhD positions within the Department of Electrical and Computer Engineering at UBC's Vancouver campus, beginning September 2025.
 More details can be found in the following [application instructions](joinAIRE.md).
 
 The first round of application reviews will take place on **December 20th, 2024**. 
 For PhD applicants, applications submitted before **December 31st, 2024** are preferred and will be considered by the department for a four-year fellowship.
-The final deadline for all applicants is **January 15th, 2025**.
+The final deadline for all applicants is **January 15th, 2025**. -->
 
 
 ## Research Interests
@@ -38,7 +38,7 @@ If you're interested in learning more, see my [publications](publications.md) fo
 <!-- If you're interested in learning more, click [here](publications.md) for a list of my recent projects. -->
 
 ## About Me
-I'm currently a postdoctoral researcher in the [Robotics and Embodied AI Lab](https://montrealrobotics.ca/) at [Mila](https://mila.quebec/en) and [l'Université de Montréal](https://diro.umontreal.ca/accueil/). 
+Before joining UBC, I was a postdoctoral researcher in the [Robotics and Embodied AI Lab](https://montrealrobotics.ca/) at [Mila](https://mila.quebec/en) and [l'Université de Montréal](https://diro.umontreal.ca/accueil/). 
 
 I received my Ph.D. (2024) and M.Sc. (2021) degrees in Computational Science, Engineering, and Mathematics from [The Oden Institute](https://www.oden.utexas.edu/) at [The University of Texas at Austin](https://www.utexas.edu/). There, I worked with Professor Ufuk Topcu as a member of the [Center for Autonomy](https://oden.utexas.edu/research/centers-and-groups/center-for-autonomy/). I was also a member of the [Center for Scientific Machine Learning](https://oden.utexas.edu/research/centers-and-groups/center-for-scientific-machine-learning/). 
 <!-- I'm a member of Professor Ufuk Topcu's [Autonomous Systems Group](https://www.ae.utexas.edu/facultysites/topcu/wiki/index.php/Main_Page).  -->
